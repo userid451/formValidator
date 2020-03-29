@@ -1,0 +1,23 @@
+{
+  "name": "formValidator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "deploy": "gh-pages -d src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/userid451/formValidator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://userid451.github.io/formValidator",
+  "bugs": {
+    "url": "https://github.com/userid451/formValidator/issues"
+  },
+  "dependencies": {
+    "gh-pages": "^2.2.0"
+  }
+}
